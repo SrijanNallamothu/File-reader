@@ -1,0 +1,16 @@
+
+dl
+format=edgelist1
+labels embedded:
+n=6
+data:
+A B 2.334
+C D 3.456
+D A 5.678
+B D 7.432
+B A 5.612
+E A 3.452
+F C 9.367
+B F 0.456
+C A 4.367
+D B 8.324
